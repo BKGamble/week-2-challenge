@@ -1,0 +1,49 @@
+* {
+    
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    background-color: lightblue;
+    color: aliceblue;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    background-color: lightblue;
+    color: aliceblue;
+}
+
+img {
+    display:inline-block;
+    width: 15%;
+    background-size: contain;
+    padding: 1%;
+}
+
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    background-color: lightblue;
+    color: white;
+}
+div.Portfolio {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    box-sizing: border-box;
+}
+
+p {
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
